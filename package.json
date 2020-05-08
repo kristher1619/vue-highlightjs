@@ -1,0 +1,19 @@
+{
+  "name": "@ikristher/vue-highlightjs",
+  "version": "1.0.0",
+  "description": "Vuejs plugin that integrate highlightjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "highlight"
+  ],
+  "author": "Kristher Vidal",
+  "license": "MIT",
+  "dependencies": {
+    "highlight.js": "^10.0.2",
+    "vue": "^2.6.11"
+  }
+}
