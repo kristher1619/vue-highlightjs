@@ -1,8 +1,8 @@
 {
   "name": "@ikristher/vue-highlightjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vuejs plugin that integrate highlightjs",
-  "main": "index.js",
+  "main": "dist/index.js",
   "author": "Kristher Vidal",
   "license": "MIT",
   "keywords": [
@@ -28,7 +28,6 @@
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
-    "eslint": "^6.8.0",
-    "eslint-plugin-vue": "^7.0.0-alpha.1"
+    "eslint": "^6.8.0"
   }
 }
