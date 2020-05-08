@@ -15,5 +15,9 @@
   "dependencies": {
     "highlight.js": "^10.0.2",
     "vue": "^2.6.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kristher1619/vue-highlightjs.git"
   }
 }
